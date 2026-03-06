@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ねむりも",
+  "base_artist": "電ǂ鯨",
+  "createdAt": "2026-03-06T08:06:27.042752Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねむりも",
+      "artist": "電ǂ鯨",
+      "has_synced": false,
+      "path": "select/pl_01_ねむりも_電ǂ鯨.txt"
+    }
+  ]
+}
